@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { useEffect, useState } from "react";
-import "./App.scss";
+import "./App.css";
 import Header from "./components/Header/Header";
 import Home from "./pages/Home/Home";
 import OpenTopoMap from './components/OpenTopoMap/OpenTopoMap'
